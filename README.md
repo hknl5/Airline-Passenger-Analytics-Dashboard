@@ -36,7 +36,7 @@ airline-ml-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/airline-ml-system.git
+git clone https://github.com/hknl5/airline-ml-system.git
 cd airline-ml-system
 ```
 
@@ -65,7 +65,6 @@ streamlit run app.py
 - Python
 - pandas
 - scikit-learn
-- imbalanced-learn
 - matplotlib
 - seaborn
 - Streamlit
