@@ -9,7 +9,6 @@ This project builds a machine learning pipeline that predicts whether airline pa
 - Rule-based product recommendation system
 - Interactive dashboard using Streamlit
 - Feature engineering including categorical encoding and interaction terms
-- Handling class imbalance using class weights or SMOTE
 - Visual insights and performance metrics
 
 ## Project Structure
